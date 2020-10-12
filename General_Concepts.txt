@@ -1,0 +1,2 @@
+Паттерн проектирования - это эффективный способ решения характерных задач проектирования.
+Design Pattern - is an effective way to solve typical design tasks.
